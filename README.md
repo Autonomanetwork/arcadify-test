@@ -1,2 +1,2 @@
 # arcadify-test
-early phase
+early development phase
